@@ -1,0 +1,9 @@
+## Interface: 80200
+## Version: 0.0.1
+## Title: AzsharaShizzl
+## Notes: Helper for hopelessly lost people on the Queen Aszhara raid encounter
+## Author: Cali - Alleria EU
+
+embeds.xml
+
+core.lua
